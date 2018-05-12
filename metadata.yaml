@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32735
     wikipedia: http://en.wikipedia.org/wiki/Robert_Sterling_Yard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27513#The-Book-of-the-National-Parks
 gutenberg_issued: '2008-12-12'
 gutenberg_type: Text
 identifiers:
