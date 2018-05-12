@@ -1,0 +1,28 @@
+_repo: The-Book-of-the-National-Parks_27513
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yard, Robert Sterling
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '32735'
+    url: http://www.gutenberg.org/2009/agents/32735
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sterling_Yard
+description: ''
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27513'
+  lccn: '19010821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National parks and reserves -- United States'
+- !lcc 'E151'
+title: The Book of the National Parks
+url: http://www.gutenberg.org/ebooks/27513
